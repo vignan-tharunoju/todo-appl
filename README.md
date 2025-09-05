@@ -1,3 +1,3 @@
-# Taskify Backend
+# Todo Application Backend
 
-Basic Version Backend of Task Application
+Basic Backend Version of Task Application
